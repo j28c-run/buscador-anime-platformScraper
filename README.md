@@ -64,10 +64,6 @@ Para animeav1.com, los siguientes servidores están disponibles:
 
 ## 🔧 Instalación y Uso
 
-### Prerrequisitos
-- Navegador web moderno
-- Conexión a internet
-
 ### Ejecutar Localmente
 
 1. Clonar o descargar los archivos
