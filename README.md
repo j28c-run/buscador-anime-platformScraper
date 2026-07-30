@@ -156,4 +156,3 @@ Las contribuciones son bienvenidas. Para sitios web nuevos:
 
 ---
 
-**Desarrollado con ❤️ para la comunidad de anime**
